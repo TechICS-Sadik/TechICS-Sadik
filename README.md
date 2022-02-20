@@ -1,8 +1,8 @@
-# Introducing Myself
+## Introducing Myself
 
-- 👋 Hi, I’m Sadik Khan
-- 👀 I’m interested in Software Building.
-- 🌱 I’m currently learning node.js
+- 👋 Hi, I’m **Sadik Khan**
+- 👀 I’m interested in __Software Architect__.
+- 🌱 I’m currently learning _Markdown_
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
