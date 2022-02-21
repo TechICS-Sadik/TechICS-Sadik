@@ -1,5 +1,7 @@
 ## Introducing Myself
 
+> Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+
 - 👋 Hi, I’m **Sadik Khan**
 - 👀 I’m interested in __Software Architect__.
 - 🌱 I’m currently learning _Markdown_
